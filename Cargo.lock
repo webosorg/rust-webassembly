@@ -1,0 +1,4 @@
+[root]
+name = "rust-webassembly"
+version = "0.1.0"
+
